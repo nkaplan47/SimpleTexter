@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTexter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="mattText">Send Matt a Text</string>
+    <string name="brianText">Send Brian a Text</string>
+    <string name="maryText">Send Mary a Text</string>
+
+    <string-array name="intents">
+        <item>"Quick Texts"</item>
+        <item>Hey</item>
+        <item>How is it going?</item>
+        <item>I am late for work</item>
+        <item>On my way home</item>
+        <item>Goodbye</item>
+    </string-array>
+
+</resources>
